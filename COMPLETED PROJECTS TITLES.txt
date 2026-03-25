@@ -1,0 +1,50 @@
+✅ Completed Machine Learning Project Titles
+🔹 Regression Projects
+
+House Price Prediction using Linear Regression
+
+Car Price Prediction using Linear Regression
+
+Restaurant Rating Prediction using XGBoost
+
+Food Delivery Time Prediction using XGBoost
+
+🔹 Classification Projects
+
+Diabetes Prediction using Support Vector Machine (SVM)
+
+Student Performance Prediction using Support Vector Machine
+
+Product Category Prediction using Decision Tree
+
+Employee Performance Classification using Decision Tree
+
+Customer Support Ticket Classification using Random Forest
+
+Bank Customer Segmentation using Random Forest (Supervised)
+
+Vehicle Type Classification using K-Nearest Neighbors (KNN)
+
+E-Commerce Cart Abandonment Prediction using LightGBM
+
+Email Spam Detection using Logistic Regression
+
+Fake Review Detection using Naive Bayes
+
+Sentiment Analysis using Naive Bayes
+
+Online Fraud Classification using Logistic Regression
+
+🔹 Recommendation Systems
+
+Movie Recommendation System using K-Nearest Neighbors (KNN)
+
+🔹 Clustering / Unsupervised Learning
+
+Social Media User Segmentation using K-Means Clustering
+
+Website Visitor Behavior Clustering using K-Means
+
+Customer Data Dimensionality Reduction using PCA
+
+Anomaly Detection in Financial Transactions using DBSCAN
